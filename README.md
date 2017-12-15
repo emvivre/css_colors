@@ -13,3 +13,6 @@ On your favorite terminal to display color type :
 
 ``$ cat css_colors``
 
+You will get something like this :
+
+![Terminal with css colors](https://github.com/emvivre/css_colors/raw/master/fig.png)
